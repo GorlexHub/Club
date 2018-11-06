@@ -1,5 +1,13 @@
 # Club
 
-Lien de l'app Heroku: 
+Suite à un problème technique, l'application n'est pas sur Heroku.
 
-Il s'agit d'un Club privé: authentification d'utilisateurs ayant un accès à la db via les noms... contrairements  aux utilisateurs invités de la plateforme
+1. téléchargez et décompressez le fichier en local
+2. "cd" vous dans le dossier
+3. #bundle install
+4. #rails db:create
+5. #rails db:migrate
+
+
+Un utilisateur Test est à votre disposition : mail:bbb@bbb password:azertyuiop
+
